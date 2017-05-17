@@ -1,0 +1,2 @@
+# SI-projekt
+MNIST classification
